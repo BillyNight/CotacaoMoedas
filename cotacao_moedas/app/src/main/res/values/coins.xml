@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="coins">
+        <item name="usd">Dólar EUA</item>
+        <item name="eur">Euro</item>
+        <item name="cad">Dólar CAN</item>
+        <item name="jpy">Iene JAP</item>
+        <item name="cny">Yuan CHI</item>
+    </string-array>
+</resources>
